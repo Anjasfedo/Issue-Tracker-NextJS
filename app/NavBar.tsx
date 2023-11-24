@@ -1,6 +1,6 @@
-"use client"
+"use client";
 import Link from "next/link";
-import { AiFillBug } from 'react-icons/ai';
+import { AiFillBug } from "react-icons/ai";
 
 import classNames from "classnames";
 import { usePathname } from "next/navigation";
